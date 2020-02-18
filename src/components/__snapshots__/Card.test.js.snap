@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <h3>
+    Name
+     (
+    
+    )
+  </h3>
+  <ul>
+    <li>
+      Cost: 
+      <span>
+        ...
+      </span>
+    </li>
+    <li>
+      Length: 
+      <span>
+        ...
+      </span>
+    </li>
+    <li>
+      Speed: 
+      <span>
+        ...
+      </span>
+    </li>
+    <li>
+      Crew: 
+      <span>
+        ...
+      </span>
+    </li>
+    <li>
+      Passengers: 
+      <span>
+        ...
+      </span>
+    </li>
+    <li>
+      Capacity: 
+      <span>
+        ...
+      </span>
+    </li>
+    <li>
+      Hyperdrive: 
+      <span>
+        ...
+      </span>
+    </li>
+  </ul>
+</div>
+`;
